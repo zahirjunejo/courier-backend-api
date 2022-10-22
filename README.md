@@ -6,4 +6,4 @@ This is a backend for a courier app that I made using:
 - ExpressJS
 - MongoDB
 
-![Documentation screenshot](screenshot.png 'Documentation screenshot')
+![Documentation screenshot](/zahirjunejo/courier-backend-api/blob/master/screenshot.PNG?raw=true 'Documentation screenshot')
